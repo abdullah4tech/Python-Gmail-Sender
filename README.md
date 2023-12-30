@@ -49,3 +49,4 @@ Before running the script, you need to configure it with your specific email det
 This script is provided for educational purposes and as a starting point for sending emails programmatically. Be aware of potential security risks and use it responsibly. Always follow best practices for handling sensitive information and consider more secure alternatives for production use.
 
 **Note:** This README assumes that you have Python and the required libraries installed and configured on your system. If you encounter issues, please refer to the documentation for Python, `email.message`, and `smtplib` for troubleshooting and further assistance.
+- It works perfectly with gmail to gmail
